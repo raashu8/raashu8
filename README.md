@@ -9,5 +9,7 @@
 🤝 I'm always open to new opportunities and collaboration with other developers. Let's connect and build something awesome together! 🚀 Don't hesitate to reach out to me if you want to chat or have any questions! 😊
 
 📫 How to reach me: aaminaraashid@gmail.com 📩 / live:.cid.e038f9810e937251 (Skype)💻💬
+
 🌱 I’m currently learning Node JS 🚪🔧
+
 ⚡ Fun fact: I have a pet cat 🐈😺 named after a programming language🖥️, and she's my coding buddy☸️
