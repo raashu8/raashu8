@@ -1,4 +1,4 @@
-👋 Hey there! 😄 I'm Raashid, a 21-year-old 🚀 ReactJS developer with over 3️⃣ years of experience! 🔥
+👋 Hey there! 😄 I'm Raashid, a 23-year-old 🚀 ReactJS developer with over 3️⃣ years of experience! 🔥
 
 💻 My passion for coding began at a young age, and I've since developed a strong skillset in building web applications using 📐 ReactJS, 🔗 Redux, 😎 JavaScript and 🔢 TypeScript. I believe in writing clean, maintainable code and always strive to improve my skills.
 
