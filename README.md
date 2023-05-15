@@ -10,6 +10,6 @@
 
 📫 How to reach me: aaminaraashid@gmail.com 📩 / live:.cid.e038f9810e937251 (Skype)💻💬
 
-🌱 I’m currently learning Node JS 🚪🔧
+🌱 I’m currently learning Node JS and Flutter 🚪🔧
 
 ⚡ Fun fact: I have a pet cat 🐈😺 named after a programming language🖥️, and she's my coding buddy☸️
