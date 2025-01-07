@@ -1,4 +1,4 @@
-👋 Hey there! 😄 I'm Raashid, a 25-year-old 🚀 ReactJS developer with over 4️⃣ years of experience! 🔥
+👋 Hey there! 😄 I'm Raashid a 🚀 ReactJS developer with over 5️⃣ years of experience! 🔥
 
 💻 My passion for coding began at a young age, and I've since developed a strong skillset in building web applications using 📐 ReactJS, 🔗 Redux, 😎 JavaScript, and 🔢 TypeScript. I believe in writing clean, maintainable code and always strive to improve my skills.
 
@@ -10,6 +10,6 @@
 
 📫 How to reach me: aaminaraashid@gmail.com 📩 / live:.cid.e038f9810e937251 (Skype)💻💬
 
-🌱 I’m currently learning Node JS and Flutter 🚪🔧
+🌱 I’m currently learning React Native and DevOps 🚪🔧
 
 ⚡ Fun fact: I have a pet cat 🐈😺 named after a programming language🖥️, and she's my coding buddy☸️
