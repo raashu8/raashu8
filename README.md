@@ -1,15 +1,42 @@
-👋 Hey there! 😄 I'm Raashid a 🚀 ReactJS developer with over 5️⃣ years of experience! 🔥
+🚀 Hey there! I’m Raashid Muhammed 👋
 
-💻 My passion for coding began at a young age, and I've since developed a strong skillset in building web applications using 📐 ReactJS, 🔗 Redux, 😎 JavaScript, and 🔢 TypeScript. I believe in writing clean, maintainable code and always strive to improve my skills.
+🏗️ Full-Stack MERN Developer | UI/UX Enthusiast | Senior Software Engineer
 
-🌱 As a young developer, I'm always eager to learn and grow my knowledge. I'm constantly exploring new technologies and experimenting with different coding techniques to keep up with the ever-evolving tech industry.
+👨‍💻 About Me
 
-📚 When I'm not coding, you can find me reading tech blogs and watching programming tutorials on 📺 YouTube or you can 🔍find me in my 🛌bed probably 💤sleeping🤣. I'm also an avid 🎮 gamer and enjoy playing online multiplayer games with my friends(Very few😅).
+Hey! I’m Raashid, a MERN stack developer who loves building scalable, high-performance web applications. With over 5+ years of experience, I specialize in React.js, Next.js, Node.js, Express.js, MongoDB, and GraphQL.
 
-🤝 I'm always open to new opportunities and collaboration with other developers. Let's connect and build something awesome together! 🚀 Don't hesitate to reach out to me if you want to chat or have any questions! 😊
+I have a keen eye for UI/UX, ensuring that every interface I design is smooth, intuitive, and pixel-perfect. Whether it’s optimizing performance, architecting scalable applications, or diving deep into debugging complex UI/Backend issues, I’m always up for the challenge!
 
-📫 How to reach me: aaminaraashid@gmail.com 📩 / live:.cid.e038f9810e937251 (Skype)💻💬
+🛠️ Tech Stack
 
-🌱 I’m currently learning React Native and DevOps 🚪🔧
+🌐 Full-Stack Development
 
-⚡ Fun fact: I have a pet cat 🐈😺 named after a programming language🖥️, and she's my coding buddy☸️
+🔹 Frontend: React.js ⚛️ | Next.js 🚀 | TypeScript 💙 | Redux Toolkit 📦 | GraphQL 🚦 | Tailwind CSS 🎨 | MUI 🏗️
+🔹 Backend: Node.js 🟢 | Express.js ⚡ | MongoDB 🍃 | REST API 🌍 | GraphQL 🕸️ | JWT Authentication 🔐
+🔹 Testing: Cypress 🏹 | Jest 🧪 | React Testing Library 🏗️
+🔹 DevOps & Cloud: Vercel 🚀 | GitHub Actions 🤖 | Docker 🐳 | Jenkins ☁️ 
+🔹 UI/UX & Tools: Figma 🎨 | Adobe XD 🖍️ | Sketch ✏️ | Postman 📨 | Swagger 📜
+
+💡 What I’m Up To
+
+🔹 Learning: React Native 📱 & Advanced DevOps 🛠️—because why stop at the web when you can rule mobile & servers too? 😏
+🔹 Building: My own CSS component library, because MUI and Tailwind are great, but I like adding my own design magic! 🎨
+
+🎮 Beyond Code
+
+When I’m not coding, I’m:
+🏸 Smashing shots on the badminton court with my weekend crew
+🏏 Playing turf cricket
+🎮 Losing (or occasionally winning) online multiplayer games
+😴 Probably sleeping—or debugging in my dreams 💭💻
+
+Oh, and fun fact: My cat 🐈 is named after a programming language—she’s my official debugging assistant. 🛠️😺
+
+🤝 Let’s Connect!
+
+💌 Email: aaminaraashid@gmail.com
+💻 Skype: live:.cid.e038f9810e937251
+🌍 Portfolio: (Coming soon… 👀)
+
+🚀 Let’s build something amazing together! Got an exciting project? Need a full-stack magician? Let’s chat! 😃🔥
